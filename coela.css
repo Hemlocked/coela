@@ -23,7 +23,7 @@ body {margin: 0px;}
               text-align: center;
               padding-top: 150px;
               padding-bottom: 150px;
-              background-image: url("file:///Users/sexydynamite/Desktop/coela/photo/top.jpg");
+              background-image: url("/photo/top.jpg");
               background-size: cover;
               background-repeat: no-repeat;
               background-color: #000000;}
@@ -105,7 +105,7 @@ color: #F5DA81;}
               text-align: center;
               padding-top: 150px;
               padding-bottom: 150px;
-              background-image: url("file:///Users/sexydynamite/Desktop/coela/photo/company.jpg");
+              background-image: url("/photo/company.jpg");
               background-size: cover;
               background-repeat: no-repeat;
               background-color: #000000;}
@@ -133,7 +133,7 @@ h3 {text-align: center;
               padding-top: 150px;
               padding-bottom: 150px;
               margin-left: 30%; 
-              background-image: url("file:///Users/sexydynamite/Desktop/coela/photo/cheif.jpg");
+              background-image: url("/photo/cheif.jpg");
               background-size: contain;
               background-repeat: no-repeat;}
 
@@ -162,7 +162,7 @@ h3 {text-align: center;
               text-align: center;
               padding-top: 150px;
               padding-bottom: 150px;
-              background-image: url("file:///Users/sexydynamite/Desktop/coela/photo/contact.jpg");
+              background-image: url("/photo/contact.jpg");
               background-size: cover;
               background-repeat: no-repeat;
               background-color: #000000;}
@@ -190,7 +190,7 @@ h3 {text-align: center;
               text-align: center;
               padding-top: 150px;
               padding-bottom: 150px;
-              background-image: url("file:///Users/sexydynamite/Desktop/coela/photo/consultant.jpg");
+              background-image: url("/photo/consultant.jpg");
               background-size: cover;
               background-repeat: no-repeat;
               background-color: #000000;}
@@ -224,7 +224,7 @@ h3 {border-bottom: 3px solid #b9b1b1;
               text-align: center;
               padding-top: 150px;
               padding-bottom: 150px;
-              background-image: url("file:///Users/sexydynamite/Desktop/coela/photo/service.jpg");
+              background-image: url("/photo/service.jpg");
               background-size: cover;
               background-repeat: no-repeat;
               background-color: #000000;}
