@@ -207,18 +207,27 @@ h3 {border-bottom: 3px solid #b9b1b1;
     margin-right: auto;
     margin-left: auto;}
 
-.service table {border: 1px #ffffff}
-
-.service-content td {padding-top: 40px;
-                     padding-bottom: 40px;
-                     padding-left: 10%;}
-
 .service-content h4 {font-size: xx-large;
-                     width: 30%;
+                     width: 40%;
                      text-align: center;
-                     margin-bottom: 5px;}
+                     margin-bottom: 5px;
+                     border-bottom: #a03535 3px solid;
+                     margin-top: 4%;
+                     margin-left: 2%;}
 
-.service-content table {border: #black}
+.service-content li {list-style: none;
+                     float: left;
+                     width: 38%;
+                     padding-left: 5%;
+                     padding-right: 5%;
+                     }
+
+.service-content ul {height: 700px;
+                     }
+
+.service-content p {font-size: large;
+                    width: 100%;
+                    padding-left: 1%}
 
 .service1 {clear: both;
               text-align: center;
