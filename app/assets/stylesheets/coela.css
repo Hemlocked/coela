@@ -185,8 +185,6 @@ h3 {text-align: center;
 .service a {text-decoration: none;
             color: black;}
 
-.flow {padding-bottom: 80px;}
-
 .consultant {clear: both;
               text-align: center;
               padding-top: 150px;
@@ -196,7 +194,7 @@ h3 {text-align: center;
               background-repeat: no-repeat;
               background-color: #000000;}
 
-.shun {padding-left: 38%;}
+.shun {padding-left: 37.2%;}
 
 .contact p {font-size: 30px;
                 color: #ffffff;}
@@ -255,6 +253,16 @@ h3 {border-bottom: 3px solid #b9b1b1;
                 color: #ffffff;}
 
 
+.consultant-text p {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+}
 
+
+.flow h4 {padding-left: 38%;}
+
+.kontact 
 
 
