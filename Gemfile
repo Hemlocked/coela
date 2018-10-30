@@ -34,6 +34,7 @@ group :production, :staging do
     gem 'unicorn'
 end
 
+gem 'rb-readline'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
